@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/joint/anmi/ex2/MatrixState.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/joint/anmi/ex2/MyActivity.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/joint/anmi/ex2/MySurfaceView.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/joint/anmi/ex2/ShaderUtil.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/ms3d/core/MS3DGroup.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/ms3d/core/MS3DHeader.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/ms3d/core/MS3DJoint.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/ms3d/core/MS3DKeyFramePosition.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/ms3d/core/MS3DKeyFrameRotate.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/ms3d/core/MS3DMaterial.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/ms3d/core/MS3DModel.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/ms3d/core/MS3DTriangle.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/ms3d/core/MS3DVertex.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/ms3d/io/SmallEndianInputStream.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/ms3d/mathutil/Matrix4f.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/ms3d/mathutil/Vector3f.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/ms3d/mathutil/Vector4f.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/ms3d/texutil/TextureManager.java" charset="GB2312" />
+  </component>
+</project>
